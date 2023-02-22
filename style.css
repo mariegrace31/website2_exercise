@@ -1,7 +1,12 @@
 body{
     background: #ffd000f8;
-    text-align: center;
+    text-align: center ;
+    padding-left: 700px;
     font-size: 30px;
+    background-image: url(images/img123.jpeg);
+    background-repeat: no-repeat;
+    background-size: 50% 160%;
+    background-position: left;
 }
 .bold{
     font-size: 100px;
@@ -13,7 +18,7 @@ padding-bottom: 30px;
 }
 a{
     font-size: 15px; 
-    color: black;
+    color: rgb(0, 0, 0);
 }
 #email{
     padding-right: 150px;
